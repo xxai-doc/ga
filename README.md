@@ -2,9 +2,9 @@
 
 * [Doiciméadúchán Ilteangach ar an Láithreán Gréasáin](https://github.com/xxai-doc)
 
-Is cód foinse oscailte é cód tosaigh an tsuímh Ghréasáin, fáilte romhat chun cabhrú leis an aistriúchán a bharrfheabhsú
+Tá cód tosaigh an tsuímh Ghréasáin foinse oscailte, fáilte romhat chun cabhrú leis an aistriúchán a bharrfheabhsú
 
-* [cód tosaigh](https://github.com/xxai-art/web)
+* [Cód Tosaigh](https://github.com/xxai-art/web)
 * [Pacaí teanga don suíomh ina iomláine](https://github.com/xxai-art/web/tree/main/i18n)
 * [Pacáistí teanga do mhodúil logáil isteach](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Doiciméadúchán Ilteangach ar an Láithreán Gréasáin](https://github.com/xxai-doc)

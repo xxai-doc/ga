@@ -7,3 +7,4 @@ Is cód foinse oscailte é cód tosaigh an tsuímh Ghréasáin, fáilte romhat c
 * [cód tosaigh](https://github.com/xxai-art/web)
 * [Pacaí teanga don suíomh ina iomláine](https://github.com/xxai-art/web/tree/main/i18n)
 * [Pacáistí teanga do mhodúil logáil isteach](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Doiciméadúchán Ilteangach ar an Láithreán Gréasáin](https://github.com/xxai-doc)

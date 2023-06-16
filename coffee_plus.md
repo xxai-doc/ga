@@ -2,13 +2,13 @@
 
 [@ w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , cuir roinnt gnéithe ar bhonn chomhréir coffeescript, féach [coffee_plus](./coffee_plus.md) .
 
-* athróg a dhearbhú
+## athróg a dhearbhú
 
 ```
 + var1, var2
 ```
 
-* lipéad dearbhaithe
+## lipéad dearbhaithe
 
 Tá `:$` le húsáid le [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* allmhairiú tapa
+## allmhairiú tapa
 
 ```
 > zx/globals:

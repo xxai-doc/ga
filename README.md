@@ -17,14 +17,14 @@ Is í an teanga ríomhchlárúcháin tosaigh ag [@w5/coffee_plus](http://npmjs.c
 
 Tóg ar na 3 thionscadal seo a leanas
 
-### [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
+* [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
 
-Is féidir leis an teimpléad marcála síos, leis an iarmhír `.mdt` , tagairt a dhéanamh do chomhaid sheachtracha le comhréir cosúil le `<+ ./coffee_plus/import.js>` .
+  Is é `.mdt` an iarmhír, is féidir leat an chomhréir cosúil le `<+ ./coffee_plus/import.js>` a úsáid chun tagairt a dhéanamh do chomhaid sheachtracha, agus marcáil síos a ghiniúint leis an iarmhír `.md` .
 
-[@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
+* [@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
 
-Ní aistreoidh aistriúchán Markdown cóid agus naisc, agus déanfaidh sé abairtí aistrithe a thaisceadh. Má athraítear an t-aistriúchán ach mura ndéantar an buntéacs a mhodhnú, ní fhorscríobhfar modhnú an aistriúcháin dá ndéanfaí é a fheidhmiú arís.
+  Ní aistreoidh aistriúchán Markdown cóid agus naisc, agus déanfaidh sé abairtí aistrithe a thaisceadh. Má athraítear an t-aistriúchán ach mura ndéantar an buntéacs a mhodhnú, ní fhorscríobhfar modhnú an aistriúcháin dá ndéanfaí é a fheidhmiú arís.
 
-[@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
+* [@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
 
-Comhaid teanga chun láithreáin ghréasáin ginte `yaml` a aistriú.
+  Comhaid teanga chun láithreáin ghréasáin ginte `yaml` a aistriú.
